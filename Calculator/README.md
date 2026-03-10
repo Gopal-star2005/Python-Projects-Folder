@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gopal-star2005/assets/main/calculator-banner.svg" alt="Python Calculator Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Python%20Calculator&fontSize=40&fontColor=ffffff"/>
 </p>
 
 # 🧮 Python Simple Calculator
