@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gopal-star2005/assets/main/word-counter-banner.svg" alt="Word Counter Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Python%20Word%20Counter&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 # 📄 Word Counter — Python File Analysis Tool
